@@ -25,7 +25,7 @@ This is a local, passive assistant that monitors screen and clipboard activity, 
 ## Installation
 
 1. **Download the Executable**:
-   - Download the latest release `.exe` file from the [Releases](https://github.com/yourusername/your-repository/releases) section.
+   - Download the latest release `.exe` file from https://github.com/Aneerajreddy/My_AI_CHATBOT.git 
 
 2. **Run the Executable**:
    - Double-click the `.exe` file to run the application. The application will start without requiring Python or additional dependencies to be installed.
