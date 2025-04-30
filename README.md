@@ -1,4 +1,4 @@
-# Local Passive Assistant - Powered by Ollama
+# Local Passive Assistant - By Neeraj
 
 This is a local, passive assistant that monitors screen and clipboard activity, provides text extraction from images, and allows chat interaction. It’s designed to work without sending data online, ensuring complete privacy for the user.
 
