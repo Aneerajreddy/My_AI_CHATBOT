@@ -70,8 +70,6 @@ This is a local, passive assistant that monitors screen and clipboard activity, 
 ## Troubleshooting
 
 - **The app doesn't start**: Make sure your system has the necessary .NET Framework installed. If the issue persists, ensure that the antivirus is not blocking the executable.
-- **No desktop shortcut created**: Right-click on the `.exe` file and select "Create shortcut" to manually create a desktop shortcut.
-- **OCR not working**: Ensure the app has screen capture permissions, and check if the app is running with administrator rights.
 
 ## Contributing
 
@@ -79,9 +77,9 @@ Feel free to fork the repository, create pull requests, and report any bugs or i
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is Open Source
 
 ## Contact
 
-For any inquiries, please contact: [your.email@example.com](mailto:your.email@example.com)
+For any inquiries, please contact: Neerajreddy14@gmail.com
 
