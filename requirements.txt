@@ -1,0 +1,10 @@
+mss
+easyocr
+pygetwindow
+pyperclip
+Pillow
+torch
+opencv-python
+transformers
+tk
+torch
